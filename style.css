@@ -1,0 +1,8 @@
+#box1 {
+    width: 700px;
+    height: 900px;
+    background-color: black;
+    margin: 10px 0;
+    border-radius: 5px 5px 5px 5px;
+    border-style: solid;
+}

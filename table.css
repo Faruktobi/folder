@@ -1,0 +1,39 @@
+.content-table {
+    border-collapse: collapse;
+    margin: 100px 0;
+    font-size: 1em;
+    background-color: blue;
+    color: white;
+    border-style: solid ;
+    border-radius: 5px 5px 5px 5px;
+    overflow: hidden;
+    
+}
+
+
+.content-table thead tr {
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    border-bottom: 1px solid white;
+    
+
+}
+
+.content-table th,
+.content-table td {
+    padding: 12px 15px;
+
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid white;
+    
+}
+
+
+
+.content-table tbody tr:last-of-type {
+    border-bottom: 10px blue;
+}
